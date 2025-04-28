@@ -9,3 +9,4 @@
 - Picco, Victoria - [vickpicco](https://github.com/vickpicco)
 - Santarena, Florencia - [mfsantarena](https://github.com/mfsantarena)
 - Suárez, Mariela - [MarielarosaSZ](https://github.com/MarielarosaSZ)
+- Viramonte, Consuelo - [ConsueloViramont](https://github.com/ConsueloViramont)
