@@ -1,0 +1,401 @@
+Destino del reclamo,Quién lo resolvió,Tipo de reclamo,Fecha del reclamo,Estado del reclamo,Grado de satisfacción
+INFRAESTRUCTURA,,Actualización de software,,  Cerrado  ,3
+soporte técnico,,  problema de acceso  ,,Pendiente,0
+Recursos humanos,Administrador TI,  Solicitud de equipo  ,2024-01-03,resuelto,2
+Infraestructura,  Juan Pérez  ,Problema de acceso,2024-01-04,EN PROCESO,0
+S0p0rte técnic0,help desk,  Actualización de software  ,2024-01-05,RESUELTO,5
+Soporte técnico,juan pérez,Solicitud de equipo,2024/01/06,,0
+Infraestructura,Administrador TI,ERROR DE SISTEMA,2024-01-07,PENDIENTE,0
+Recurs0s human0s,SOPORTE NIVEL 1,,2024-01-08,  RESUELTO  ,5
+Soporte técnico,Help Desk,Error de sistema,2024-01-09,Pendiente,0
+,ADMINISTRADOR TI,Consulta general,2024-01-10,Pendiente,0
+infraestructura,Administrador TI,Error de sistema,2024-01-11,  Resuelto  ,3
+Infraestructura,JUAN PÉREZ,,2024-01-12,  PENDIENTE  ,0
+SISTEMAS,JUAN PÉREZ,CONSULTA GENERAL,24-01-13,En proceso,0
+SISTEMAS,HELP DESK,Solicitud de equipo,2024-01-14,Resuelto,5
+FINANZAS,ADMINISTRADOR TI,SOLICITUD DE EQUIPO,2024-01-15,PENDIENTE,0
+  Recursos humanos  ,Soporte Nivel 1,ERROR DE SISTEMA,2024/01/16,resuelto,1
+Soporte técnico,Soporte Nivel 1,CONSULTA GENERAL,2024-01-17,Cerrado,2
+Soporte técnico,MARÍA LÓPEZ,Actualización de software,2024-01-18,cerrado,2
+Sistemas,Administrad0r TI,Actualización de software,2024-01-19,RESUELTO,2
+infraestructura,juan pérez,consulta general,2024-01-20,PENDIENTE,0
+  s0p0rte técnic0  ,MARÍA LÓPEZ,ERROR DE SISTEMA,2024/01/21,cerrado,2
+RECURSOS HUMANOS,soporte nivel 1,problema de acceso,2024-01-22,  EN PROCESO  ,0
+infraestructura,,error de sistema,2024-01-23,,0
+Sistemas,Soporte Nivel 1,Err0r de sistema,2024-01-24,En proceso,0
+Recursos humanos,  S0p0rte Nivel 1  ,Error de sistema,2024-01-25,Pendiente,0
+soporte técnico,maría lópez,ERROR DE SISTEMA,24-01-26,CERRADO,1
+Sistemas,Help Desk,actualización de software,2024/01/27,  pendiente  ,0
+  INFRAESTRUCTURA  ,  Juan Pérez  ,  ACTUALIZACIÓN DE SOFTWARE  ,2024-01-28,RESUELTO,4
+INFRAESTRUCTURA,  Administrad0r TI  ,actualización de software,2024-01-29,Pendiente,0
+Infraestructura,Juan Pérez,Consulta general,2024-01-30,En proceso,0
+RECURSOS HUMANOS,administrador ti,s0licitud de equip0,2024-01-31,RESUELTO,5
+recursos humanos,SOPORTE NIVEL 1,Consulta general,2024-02-01,CERRADO,3
+  soporte técnico  ,  Soporte Nivel 1  ,PROBLEMA DE ACCESO,2024-02-02,cerrado,3
+FINANZAS,Help Desk,Error de sistema,2024-02-03,,0
+Finanzas,María López,  Problema de acceso  ,2024-02-04,  RESUELTO  ,1
+  Finanzas  ,SOPORTE NIVEL 1,Consulta general,2024/02/05,RESUELTO,1
+Soporte técnico,help desk,Error de sistema,2024-02-06,En proceso,0
+  Finanzas  ,JUAN PÉREZ,consulta general,2024-02-07,Pendiente,0
+sistemas,  Soporte Nivel 1  ,problema de acceso,2024-02-08,,0
+  Sistemas  ,,  CONSULTA GENERAL  ,2024-02-09,,0
+Sistemas,SOPORTE NIVEL 1,  CONSULTA GENERAL  ,2024-02-10,Cerrado,2
+Sistemas,Soporte Nivel 1,error de sistema,2024-02-11,En proceso,0
+SOPORTE TÉCNICO,Juan Pérez,ERROR DE SISTEMA,2024-02-12,  PENDIENTE  ,0
+SISTEMAS,  Juan Pérez  ,  ERROR DE SISTEMA  ,2024-02-13,  En proceso  ,0
+Recursos humanos,María López,Solicitud de equipo,2024/02/14,Cerrado,2
+Finanzas,maría lópez,Solicitud de equipo,2024-02-15,pendiente,0
+Infraestructura,  help desk  ,Error de sistema,,Pendiente,0
+  SOPORTE TÉCNICO  ,  Soporte Nivel 1  ,problema de acceso,2024-02-17,  En proceso  ,0
+Recursos humanos,  administrador ti  ,ACTUALIZACIÓN DE SOFTWARE,2024/02/18,En proceso,0
+RECURSOS HUMANOS,HELP DESK,Pr0blema de acces0,2024-02-19,resuelto,3
+SOPORTE TÉCNICO,María López,Actualización de software,2024-02-20,  RESUELTO  ,2
+RECURSOS HUMANOS,MARÍA LÓPEZ,Actualización de software,2024-02-21,Cerrado,3
+  RECURSOS HUMANOS  ,  maría lópez  ,Consulta general,2024-02-22,Cerrado,4
+,Administrador TI,Solicitud de equipo,2024-02-23,  Cerrado  ,2
+infraestructura,Soporte Nivel 1,PROBLEMA DE ACCESO,2024/02/24,resuelto,4
+SISTEMAS,  ADMINISTRADOR TI  ,Problema de acceso,2024-02-25,CERRADO,5
+  Soporte técnico  ,juan pérez,Err0r de sistema,2024-02-26,CERRADO,2
+SISTEMAS,,Error de sistema,2024-02-27,cerrado,4
+Soporte técnico,maría lópez,,2024-02-28,  Pendiente  ,0
+finanzas,,error de sistema,2024-02-29,en pr0ces0,0
+  finanzas  ,,C0nsulta general,2024/03/01,,0
+Recursos humanos,Juan Pérez,problema de acceso,2024-03-02,  Cerrado  ,5
+Soporte técnico,S0p0rte Nivel 1,Consulta general,2024-03-03,Pendiente,0
+SISTEMAS,  administrador ti  ,SOLICITUD DE EQUIPO,2024/03/04,  pendiente  ,0
+SOPORTE TÉCNICO,Help Desk,SOLICITUD DE EQUIPO,2024-03-05,Resuelto,5
+  recursos humanos  ,  Help Desk  ,CONSULTA GENERAL,2024-03-06,Pendiente,0
+Soporte técnico,Juan Pérez,  SOLICITUD DE EQUIPO  ,2024-03-07,Cerrad0,0
+Infraestructura,  ADMINISTRADOR TI  ,actualización de software,2024/03/08,cerrado,5
+  Finanzas  ,Help Desk,Consulta general,2024/03/09,Pendiente,0
+soporte técnico,Soporte Nivel 1,ERROR DE SISTEMA,2024-03-10,CERRADO,1
+soporte técnico,Administrador TI,  ERROR DE SISTEMA  ,2024-03-11,cerrado,5
+Sistemas,JUAN PÉREZ,Solicitud de equipo,2024/03/12,Pendiente,0
+Soporte técnico,Soporte Nivel 1,  Solicitud de equipo  ,2024-03-13,Cerrado,1
+  Sistemas  ,Soporte Nivel 1,Problema de acceso,2024-03-14,RESUELTO,5
+Sistemas,HELP DESK,SOLICITUD DE EQUIPO,2024-03-15,Pendiente,0
+RECURSOS HUMANOS,Juan Pérez,  Error de sistema  ,2024-03-16,Cerrado,1
+Finanzas,Juan Pérez,Consulta general,2024-03-17,En proceso,0
+recursos humanos,MARÍA LÓPEZ,Actualización de software,2024-03-18,en proceso,0
+INFRAESTRUCTURA,María López,  Error de sistema  ,2024/03/19,EN PROCESO,0
+SOPORTE TÉCNICO,MARÍA LÓPEZ,,2024/03/20,RESUELTO,5
+soporte técnico,Administrador TI,  consulta general  ,2024-03-21,En proceso,0
+  Soporte técnico  ,  ADMINISTRADOR TI  ,  Actualización de software  ,24-03-22,  CERRADO  ,1
+Infraestructura,juan pérez,consulta general,24-03-23,cerrado,1
+,JUAN PÉREZ,C0nsulta general,2024/03/24,  PENDIENTE  ,0
+SISTEMAS,MARÍA LÓPEZ,ACTUALIZACIÓN DE SOFTWARE,2024-03-25,PENDIENTE,0
+Infraestructura,Help Desk,actualización de software,2024-03-26,pendiente,0
+SOPORTE TÉCNICO,Administrador TI,  S0licitud de equip0  ,2024-03-27,Cerrado,4
+Soporte técnico,JUAN PÉREZ,actualización de software,2024-03-28,  En proceso  ,0
+RECURSOS HUMANOS,ADMINISTRADOR TI,SOLICITUD DE EQUIPO,2024-03-29,pendiente,0
+infraestructura,HELP DESK,SOLICITUD DE EQUIPO,2024-03-30,RESUELTO,1
+INFRAESTRUCTURA,María López,ACTUALIZACIÓN DE SOFTWARE,2024/03/31,En proceso,0
+SOPORTE TÉCNICO,Administrador TI,Problema de acceso,2024/04/01,Resuelto,1
+Infraestructura,help desk,consulta general,24-04-02,en pr0ces0,0
+Finanzas,  soporte nivel 1  ,  actualización de software  ,24-04-03,Pendiente,0
+Soporte técnico,administrador ti,Actualización de software,2024-04-04,  EN PROCESO  ,0
+Infraestructura,Help Desk,ACTUALIZACIÓN DE SOFTWARE,2024-04-05,  cerrado  ,4
+  RECURSOS HUMANOS  ,Help Desk,  Actualización de software  ,2024-04-06,Cerrado,1
+Infraestructura,Help Desk,problema de acceso,2024-04-07,RESUELTO,2
+RECURSOS HUMANOS,HELP DESK,Error de sistema,2024/04/08,PENDIENTE,0
+s0p0rte técnic0,administrad0r ti,PROBLEMA DE ACCESO,24-04-09,En proceso,0
+Soporte técnico,JUAN PÉREZ,,2024-04-10,EN PROCESO,0
+Soporte técnico,JUAN PÉREZ,problema de acceso,2024-04-11,resuelto,2
+  soporte técnico  ,Administrador TI,Solicitud de equipo,2024/04/12,cerrado,3
+  SOPORTE TÉCNICO  ,Soporte Nivel 1,CONSULTA GENERAL,2024-04-13,Resuelto,5
+  Sistemas  ,ADMINISTRADOR TI,,2024-04-14,pendiente,0
+S0p0rte técnic0,soporte nivel 1,Solicitud de equipo,2024-04-15,en proceso,0
+  Recursos humanos  ,  SOPORTE NIVEL 1  ,Error de sistema,2024-04-16,EN PROCESO,0
+  finanzas  ,Juan Pérez,  SOLICITUD DE EQUIPO  ,2024-04-17,En pr0ces0,0
+Finanzas,help desk,Consulta general,2024-04-18,En proceso,0
+SISTEMAS,  HELP DESK  ,Actualización de software,2024-04-19,Pendiente,0
+SOPORTE TÉCNICO,Juan Pérez,  Actualización de software  ,2024-04-20,CERRADO,2
+Infraestructura,,ERROR DE SISTEMA,2024/04/21,en proceso,0
+Sistemas,soporte nivel 1,  Problema de acceso  ,2024-04-22,resuelto,5
+,  ADMINISTRADOR TI  ,PROBLEMA DE ACCESO,2024-04-23,En proceso,0
+SISTEMAS,administrador ti,  Solicitud de equipo  ,2024-04-24,PENDIENTE,0
+Recurs0s human0s,  Help Desk  ,CONSULTA GENERAL,2024-04-25,cerrado,5
+RECURSOS HUMANOS,  María López  ,Consulta general,,En pr0ces0,0
+SOPORTE TÉCNICO,administrador ti,Actualización de s0ftware,2024-04-27,Cerrado,4
+FINANZAS,JUAN PÉREZ,Problema de acceso,2024-04-28,cerrado,5
+SISTEMAS,Juan Pérez,  err0r de sistema  ,2024/04/29,Cerrado,1
+SISTEMAS,  Juan Pérez  ,ACTUALIZACIÓN DE SOFTWARE,2024/04/30,Cerrado,4
+sistemas,maría lópez,Actualización de software,2024-05-01,En pr0ces0,0
+  Sistemas  ,maría lópez,  SOLICITUD DE EQUIPO  ,2024-05-02,  EN PROCESO  ,0
+RECURSOS HUMANOS,  Help Desk  ,,2024-05-03,Pendiente,0
+SOPORTE TÉCNICO,JUAN PÉREZ,error de sistema,2024/05/04,CERRADO,1
+Soporte técnico,ADMINISTRADOR TI,Solicitud de equipo,2024-05-05,  Pendiente  ,0
+Sistemas,,Consulta general,2024-05-06,,0
+RECURSOS HUMANOS,,Consulta general,2024-05-07,,0
+Sistemas,juan pérez,  Solicitud de equipo  ,,Cerrado,4
+sistemas,MARÍA LÓPEZ,ERROR DE SISTEMA,2024-05-09,pendiente,0
+Sistemas,administrador ti,ERROR DE SISTEMA,2024-05-10,Cerrado,5
+Sistemas,JUAN PÉREZ,error de sistema,24-05-11,  RESUELTO  ,3
+,  Soporte Nivel 1  ,Solicitud de equipo,2024-05-12,EN PROCESO,0
+RECURSOS HUMANOS,  María López  ,Actualización de software,2024-05-13,Resuelto,2
+  INFRAESTRUCTURA  ,Juan Pérez,  ACTUALIZACIÓN DE SOFTWARE  ,2024-05-14,EN PROCESO,0
+Sistemas,  maría lópez  ,problema de acceso,2024/05/15,en proceso,0
+Recursos humanos,  Soporte Nivel 1  ,ACTUALIZACIÓN DE SOFTWARE,2024-05-16,En proceso,0
+sistemas,  Help Desk  ,Err0r de sistema,2024-05-17,Cerrado,1
+,  soporte nivel 1  ,  consulta general  ,2024-05-18,Resuelto,4
+RECURSOS HUMANOS,Juan Pérez,Actualización de software,2024/05/19,,0
+  RECURSOS HUMANOS  ,Help Desk,Error de sistema,2024-05-20,EN PROCESO,0
+finanzas,Juan Pérez,problema de acceso,24/05/21,Cerrado,1
+  soporte técnico  ,help desk,ERROR DE SISTEMA,2024/05/22,Resuelto,5
+  RECURSOS HUMANOS  ,Juan Pérez,PROBLEMA DE ACCESO,2024-05-23,En proceso,0
+SOPORTE TÉCNICO,JUAN PÉREZ,Solicitud de equipo,2024-05-24,  PENDIENTE  ,0
+  Soporte técnico  ,  Help Desk  ,CONSULTA GENERAL,24-05-25,En proceso,0
+s0p0rte técnic0,Help Desk,Error de sistema,2024-05-26,EN PROCESO,0
+  Soporte técnico  ,Juan Pérez,  Consulta general  ,2024-05-27,En proceso,0
+SISTEMAS,María López,  Solicitud de equipo  ,2024/05/28,EN PROCESO,0
+Soporte técnico,administrador ti,problema de acceso,2024/05/29,PENDIENTE,0
+SOPORTE TÉCNICO,help desk,Actualización de software,2024-05-30,CERRADO,5
+Recursos humanos,  administrador ti  ,  PROBLEMA DE ACCESO  ,2024-05-31,PENDIENTE,0
+  Finanzas  ,Help Desk,solicitud de equipo,2024-06-01,EN PROCESO,0
+Sistemas,  Juan Pérez  ,Solicitud de equipo,2024/06/02,pendiente,0
+Recursos humanos,María López,SOLICITUD DE EQUIPO,2024/06/03,EN PROCESO,0
+,HELP DESK,SOLICITUD DE EQUIPO,2024-06-04,CERRADO,3
+SISTEMAS,Soporte Nivel 1,solicitud de equipo,24-06-05,En proceso,0
+SISTEMAS,soporte nivel 1,PROBLEMA DE ACCESO,2024-06-06,  Pendiente  ,0
+  S0p0rte técnic0  ,soporte nivel 1,Problema de acceso,2024-06-07,EN PROCESO,0
+SOPORTE TÉCNICO,SOPORTE NIVEL 1,Solicitud de equipo,2024/06/08,,0
+infraestructura,maría lópez,  Problema de acceso  ,,  En proceso  ,0
+Recursos humanos,help desk,PROBLEMA DE ACCESO,2024-06-10,Pendiente,0
+sistemas,MARÍA LÓPEZ,Problema de acceso,2024/06/11,Pendiente,0
+  Infraestructura  ,SOPORTE NIVEL 1,SOLICITUD DE EQUIPO,2024-06-12,  Cerrado  ,3
+SOPORTE TÉCNICO,María López,solicitud de equipo,2024/06/13,PENDIENTE,0
+RECURSOS HUMANOS,  María López  ,ACTUALIZACIÓN DE SOFTWARE,2024/06/14,CERRADO,3
+  sistemas  ,  MARÍA LÓPEZ  ,problema de acceso,2024-06-15,Pendiente,0
+Recursos humanos,  administrad0r ti  ,Problema de acceso,2024-06-16,EN PROCESO,0
+  INFRAESTRUCTURA  ,Help Desk,Problema de acceso,2024-06-17,Pendiente,0
+recursos humanos,SOPORTE NIVEL 1,  Consulta general  ,2024-06-18,en proceso,0
+RECURSOS HUMANOS,Help Desk,CONSULTA GENERAL,2024-06-19,En proceso,0
+Sistemas,HELP DESK,  SOLICITUD DE EQUIPO  ,2024-06-20,Resuelto,4
+Sistemas,maría lópez,Actualización de software,2024-06-21,EN PROCESO,0
+INFRAESTRUCTURA,help desk,Solicitud de equipo,,  Cerrado  ,4
+SOPORTE TÉCNICO,  MARÍA LÓPEZ  ,Consulta general,24-06-23,resuelto,4
+Soporte técnico,Help Desk,PROBLEMA DE ACCESO,2024/06/24,Pendiente,0
+  Soporte técnico  ,María López,actualización de software,2024-06-25,Resuelt0,0
+Soporte técnico,,,2024-06-26,RESUELTO,4
+recursos humanos,Soporte Nivel 1,Error de sistema,2024-06-27,EN PROCESO,0
+Finanzas,Help Desk,  Consulta general  ,2024-06-28,PENDIENTE,0
+FINANZAS,help desk,ACTUALIZACIÓN DE SOFTWARE,2024-06-29,  pendiente  ,0
+Infraestructura,Help Desk,Problema de acceso,2024-06-30,En proceso,0
+sistemas,juan pérez,Problema de acceso,2024/07/01,pendiente,0
+RECURSOS HUMANOS,MARÍA LÓPEZ,,2024-07-02,en proceso,0
+  Finanzas  ,maría lópez,Error de sistema,2024-07-03,PENDIENTE,0
+  Soporte técnico  ,juan pérez,ERROR DE SISTEMA,2024-07-04,Resuelto,1
+SOPORTE TÉCNICO,Juan Pérez,  PROBLEMA DE ACCESO  ,,Pendiente,0
+Sistemas,Juan Pérez,  Actualización de software  ,2024-07-06,PENDIENTE,0
+finanzas,María López,  Problema de acceso  ,2024-07-07,Pendiente,0
+Recursos humanos,HELP DESK,Consulta general,24-07-08,RESUELTO,5
+Infraestructura,help desk,Consulta general,,pendiente,0
+Recursos humanos,Help Desk,Actualización de software,2024-07-10,PENDIENTE,0
+Sistemas,soporte nivel 1,Problema de acceso,2024-07-11,Cerrado,1
+soporte técnico,Soporte Nivel 1,actualización de software,2024-07-12,Pendiente,0
+soporte técnico,  help desk  ,Consulta general,2024-07-13,Pendiente,0
+sistemas,  Juan Pérez  ,,2024-07-14,Resuelto,5
+finanzas,  maría lópez  ,Problema de acceso,24-07-15,Pendiente,0
+infraestructura,maría lópez,Problema de acceso,,Pendiente,0
+  Sistemas  ,  Soporte Nivel 1  ,Error de sistema,2024-07-17,CERRADO,5
+Recursos humanos,JUAN PÉREZ,  SOLICITUD DE EQUIPO  ,2024-07-18,Cerrado,2
+  Recursos humanos  ,Administrador TI,PROBLEMA DE ACCESO,2024-07-19,Pendiente,0
+Sistemas,María López,solicitud de equipo,2024-07-20,EN PROCESO,0
+,MARÍA LÓPEZ,SOLICITUD DE EQUIPO,2024-07-21,  PENDIENTE  ,0
+RECURSOS HUMANOS,HELP DESK,CONSULTA GENERAL,2024/07/22,Cerrad0,0
+Sistemas,Juan Pérez,  Error de sistema  ,2024-07-23,Cerrado,1
+  Finanzas  ,ADMINISTRADOR TI,error de sistema,2024/07/24,En pr0ces0,0
+infraestructura,JUAN PÉREZ,CONSULTA GENERAL,2024-07-25,En pr0ces0,0
+Finanzas,Juan Pérez,CONSULTA GENERAL,2024-07-26,,0
+  Finanzas  ,Soporte Nivel 1,PROBLEMA DE ACCESO,,Cerrado,4
+Soporte técnico,  Administrador TI  ,  consulta general  ,2024-07-28,En proceso,0
+,Soporte Nivel 1,Err0r de sistema,2024-07-29,  PENDIENTE  ,0
+SOPORTE TÉCNICO,  Administrador TI  ,Consulta general,2024/07/30,  RESUELTO  ,2
+finanzas,administrador ti,  Error de sistema  ,2024-07-31,PENDIENTE,0
+finanzas,soporte nivel 1,solicitud de equipo,,en proceso,0
+  Soporte técnico  ,,PROBLEMA DE ACCESO,2024-08-02,  Pendiente  ,0
+Sistemas,Juan Pérez,Error de sistema,2024-08-03,EN PROCESO,0
+RECURSOS HUMANOS,,  error de sistema  ,2024-08-04,Resuelt0,0
+Soporte técnico,ADMINISTRADOR TI,actualización de software,2024-08-05,pendiente,0
+Finanzas,  SOPORTE NIVEL 1  ,consulta general,2024/08/06,en proceso,0
+Soporte técnico,Juan Pérez,  Actualización de software  ,2024-08-07,,0
+SOPORTE TÉCNICO,Administrador TI,,2024-08-08,  PENDIENTE  ,0
+  SISTEMAS  ,juan pérez,  Error de sistema  ,2024-08-09,CERRADO,4
+Infraestructura,help desk,actualización de software,2024-08-10,CERRADO,1
+Sistemas,Administrador TI,,2024/08/11,Cerrado,4
+SOPORTE TÉCNICO,SOPORTE NIVEL 1,PROBLEMA DE ACCESO,2024-08-12,En proceso,0
+INFRAESTRUCTURA,María López,consulta general,,En proceso,0
+SISTEMAS,María López,  Problema de acceso  ,2024-08-14,Pendiente,0
+FINANZAS,Juan Pérez,  Consulta general  ,24-08-15,Cerrado,4
+infraestructura,maría lópez,Problema de acceso,24-08-16,  En proceso  ,0
+  soporte técnico  ,,Actualización de software,2024-08-17,En proceso,0
+RECURSOS HUMANOS,SOPORTE NIVEL 1,Err0r de sistema,24-08-18,  En proceso  ,0
+Soporte técnico,Soporte Nivel 1,,2024-08-19,resuelto,1
+Sistemas,Soporte Nivel 1,Error de sistema,2024/08/20,  CERRADO  ,1
+,  Soporte Nivel 1  ,  error de sistema  ,2024-08-21,,0
+Infraestructura,Soporte Nivel 1,CONSULTA GENERAL,2024-08-22,,0
+s0p0rte técnic0,Administrador TI,SOLICITUD DE EQUIPO,2024-08-23,Cerrado,1
+Infraestructura,Juan Pérez,  Problema de acceso  ,2024-08-24,Resuelto,1
+INFRAESTRUCTURA,soporte nivel 1,Actualización de software,2024-08-25,Pendiente,0
+Infraestructura,María López,error de sistema,2024-08-26,Resuelto,2
+Sistemas,María López,ACTUALIZACIÓN DE SOFTWARE,2024/08/27,  cerrado  ,2
+S0p0rte técnic0,soporte nivel 1,Error de sistema,2024-08-28,CERRADO,4
+infraestructura,soporte nivel 1,Error de sistema,2024-08-29,  En pr0ces0  ,0
+Soporte técnico,SOPORTE NIVEL 1,SOLICITUD DE EQUIPO,2024-08-30,EN PROCESO,0
+SISTEMAS,Administrador TI,consulta general,2024-08-31,RESUELTO,1
+Sistemas,,CONSULTA GENERAL,2024-09-01,EN PROCESO,0
+sistemas,JUAN PÉREZ,Actualización de software,2024-09-02,Cerrado,2
+recursos humanos,Help Desk,ACTUALIZACIÓN DE SOFTWARE,2024-09-03,resuelto,3
+  Recursos humanos  ,Help Desk,SOLICITUD DE EQUIPO,2024-09-04,resuelto,4
+Soporte técnico,María López,SOLICITUD DE EQUIPO,2024-09-05,Resuelto,4
+  Infraestructura  ,administrador ti,  problema de acceso  ,2024-09-06,En pr0ces0,0
+sistemas,,  Consulta general  ,2024-09-07,PENDIENTE,0
+  Sistemas  ,juan pérez,Error de sistema,2024-09-08,cerrado,3
+  Infraestructura  ,Administrador TI,Actualización de software,2024-09-09,EN PROCESO,0
+RECURSOS HUMANOS,help desk,  CONSULTA GENERAL  ,2024-09-10,  Resuelto  ,4
+SISTEMAS,,  Actualización de software  ,2024-09-11,  Cerrado  ,2
+Finanzas,JUAN PÉREZ,Actualización de software,2024/09/12,  PENDIENTE  ,0
+INFRAESTRUCTURA,Juan Pérez,actualización de software,2024-09-13,En proceso,0
+RECURSOS HUMANOS,Help Desk,Error de sistema,2024-09-14,pendiente,0
+soporte técnico,,Consulta general,2024/09/15,  PENDIENTE  ,0
+FINANZAS,Soporte Nivel 1,Solicitud de equipo,2024-09-16,Cerrado,4
+finanzas,  MARÍA LÓPEZ  ,  ERROR DE SISTEMA  ,2024-09-17,Pendiente,0
+SOPORTE TÉCNICO,  Administrador TI  ,PROBLEMA DE ACCESO,24-09-18,Resuelto,2
+SOPORTE TÉCNICO,  help desk  ,  Consulta general  ,2024-09-19,  resuelto  ,3
+INFRAESTRUCTURA,  juan pérez  ,  error de sistema  ,2024-09-20,resuelto,2
+finanzas,María López,CONSULTA GENERAL,2024-09-21,Cerrado,5
+  SISTEMAS  ,Help Desk,Actualización de software,2024/09/22,Cerrado,5
+Sistemas,juan pérez,PROBLEMA DE ACCESO,2024-09-23,PENDIENTE,0
+Sistemas,Administrador TI,consulta general,2024-09-24,Pendiente,0
+,HELP DESK,  PROBLEMA DE ACCESO  ,2024-09-25,PENDIENTE,0
+sistemas,Juan Pérez,ACTUALIZACIÓN DE SOFTWARE,2024-09-26,resuelto,5
+  infraestructura  ,juan pérez,,2024/09/27,Cerrad0,0
+Soporte técnico,Help Desk,Consulta general,24-09-28,Cerrado,5
+Finanzas,  MARÍA LÓPEZ  ,  ERROR DE SISTEMA  ,2024-09-29,En proceso,0
+Recursos humanos,  Juan Pérez  ,problema de acceso,2024-09-30,Pendiente,0
+Infraestructura,Juan Pérez,Actualización de software,2024-10-01,,0
+finanzas,SOPORTE NIVEL 1,,2024-10-02,PENDIENTE,0
+  Finanzas  ,Administrador TI,error de sistema,,  Resuelto  ,5
+RECURSOS HUMANOS,Juan Pérez,,2024-10-04,,0
+  Soporte técnico  ,Soporte Nivel 1,error de sistema,24/10/05,Cerrado,1
+  Infraestructura  ,HELP DESK,  Problema de acceso  ,2024-10-06,  PENDIENTE  ,0
+  INFRAESTRUCTURA  ,  Help Desk  ,Actualización de software,2024-10-07,,0
+Infraestructura,Juan Pérez,  PROBLEMA DE ACCESO  ,2024-10-08,  Cerrado  ,4
+Recursos humanos,María López,Consulta general,2024-10-09,  Cerrado  ,5
+sistemas,Juan Pérez,Problema de acceso,24/10/10,  RESUELTO  ,3
+sistemas,JUAN PÉREZ,consulta general,2024-10-11,CERRADO,3
+Sistemas,juan pérez,PROBLEMA DE ACCESO,24-10-12,Cerrado,2
+RECURSOS HUMANOS,HELP DESK,ERROR DE SISTEMA,24-10-13,  RESUELTO  ,1
+Recursos humanos,Soporte Nivel 1,SOLICITUD DE EQUIPO,2024-10-14,  cerrad0  ,0
+Finanzas,Soporte Nivel 1,consulta general,24-10-15,Resuelt0,0
+Soporte técnico,ADMINISTRADOR TI,ACTUALIZACIÓN DE SOFTWARE,2024-10-16,Pendiente,0
+Sistemas,HELP DESK,error de sistema,2024-10-17,  RESUELTO  ,2
+recursos humanos,Administrador TI,  Actualización de software  ,2024-10-18,EN PROCESO,0
+,S0p0rte Nivel 1,solicitud de equipo,2024-10-19,Pendiente,0
+INFRAESTRUCTURA,,  Solicitud de equipo  ,2024-10-20,  CERRADO  ,1
+SISTEMAS,SOPORTE NIVEL 1,SOLICITUD DE EQUIPO,2024-10-21,  Cerrado  ,5
+RECURSOS HUMANOS,Juan Pérez,ACTUALIZACIÓN DE SOFTWARE,2024-10-22,CERRADO,4
+  recursos humanos  ,SOPORTE NIVEL 1,Actualización de software,2024-10-23,Resuelto,5
+Infraestructura,Help Desk,PROBLEMA DE ACCESO,2024-10-24,EN PROCESO,0
+SISTEMAS,  MARÍA LÓPEZ  ,Error de sistema,2024-10-25,en proceso,0
+FINANZAS,Soporte Nivel 1,Problema de acceso,2024-10-26,RESUELTO,4
+S0p0rte técnic0,HELP DESK,Consulta general,2024-10-27,  En pr0ces0  ,0
+FINANZAS,  María López  ,,2024-10-28,EN PROCESO,0
+Recursos humanos,soporte nivel 1,CONSULTA GENERAL,2024/10/29,en pr0ces0,0
+recursos humanos,ADMINISTRADOR TI,,2024-10-30,,0
+SISTEMAS,Soporte Nivel 1,  Problema de acceso  ,,Pendiente,0
+Recursos humanos,  soporte nivel 1  ,  Solicitud de equipo  ,2024-11-01,resuelto,5
+FINANZAS,MARÍA LÓPEZ,SOLICITUD DE EQUIPO,2024-11-02,Cerrado,2
+  SOPORTE TÉCNICO  ,MARÍA LÓPEZ,C0nsulta general,2024-11-03,  CERRADO  ,5
+Recursos humanos,Administrador TI,Problema de acceso,2024/11/04,  Pendiente  ,0
+Recursos humanos,  SOPORTE NIVEL 1  ,Actualización de software,2024-11-05,  cerrado  ,4
+SISTEMAS,María López,  Solicitud de equipo  ,2024-11-06,Resuelto,1
+INFRAESTRUCTURA,Administrador TI,SOLICITUD DE EQUIPO,2024/11/07,  Resuelto  ,5
+Sistemas,  Help Desk  ,  Problema de acceso  ,2024-11-08,resuelto,1
+Finanzas,Administrador TI,solicitud de equipo,2024-11-09,Resuelto,5
+,Help Desk,consulta general,2024-11-10,  En proceso  ,0
+INFRAESTRUCTURA,Administrador TI,Solicitud de equipo,2024-11-11,Pendiente,0
+sistemas,Help Desk,SOLICITUD DE EQUIPO,24-11-12,  RESUELTO  ,3
+Soporte técnico,  SOPORTE NIVEL 1  ,  ERROR DE SISTEMA  ,2024-11-13,PENDIENTE,0
+  Finanzas  ,  ADMINISTRADOR TI  ,PROBLEMA DE ACCESO,2024-11-14,En proceso,0
+  Recursos humanos  ,Help Desk,Consulta general,2024-11-15,Resuelto,2
+SOPORTE TÉCNICO,  Juan Pérez  ,Problema de acceso,,resuelto,3
+  Finanzas  ,  HELP DESK  ,ERROR DE SISTEMA,,PENDIENTE,0
+  Soporte técnico  ,  Juan Pérez  ,Consulta general,2024-11-18,  PENDIENTE  ,0
+RECURSOS HUMANOS,María López,Consulta general,2024-11-19,RESUELTO,2
+soporte técnico,administrador ti,  error de sistema  ,,  PENDIENTE  ,0
+RECURSOS HUMANOS,Help Desk,Actualización de software,2024-11-21,EN PROCESO,0
+Finanzas,Juan Pérez,  solicitud de equipo  ,2024-11-22,Pendiente,0
+Infraestructura,Juan Pérez,  ERROR DE SISTEMA  ,2024-11-23,pendiente,0
+SOPORTE TÉCNICO,Juan Pérez,actualización de software,2024/11/24,  RESUELTO  ,1
+  Soporte técnico  ,JUAN PÉREZ,  C0nsulta general  ,2024-11-25,  en proceso  ,0
+Recursos humanos,  Soporte Nivel 1  ,  ACTUALIZACIÓN DE SOFTWARE  ,2024-11-26,Resuelto,2
+SOPORTE TÉCNICO,  Soporte Nivel 1  ,Consulta general,2024-11-27,CERRADO,2
+,JUAN PÉREZ,ACTUALIZACIÓN DE SOFTWARE,2024-11-28,EN PROCESO,0
+INFRAESTRUCTURA,  help desk  ,Actualización de software,2024-11-29,En proceso,0
+SOPORTE TÉCNICO,María López,SOLICITUD DE EQUIPO,2024-11-30,RESUELTO,5
+Finanzas,JUAN PÉREZ,Error de sistema,2024/12/01,Cerrado,5
+Infraestructura,JUAN PÉREZ,Solicitud de equipo,2024-12-02,RESUELTO,5
+Recursos humanos,MARÍA LÓPEZ,solicitud de equipo,24-12-03,EN PROCESO,0
+finanzas,administrador ti,PROBLEMA DE ACCESO,2024-12-04,  RESUELTO  ,1
+Recursos humanos,  help desk  ,Consulta general,24-12-05,En proceso,0
+Recursos humanos,Soporte Nivel 1,Consulta general,2024-12-06,en proceso,0
+RECURSOS HUMANOS,maría lópez,ACTUALIZACIÓN DE SOFTWARE,2024-12-07,Resuelt0,0
+  Infraestructura  ,  MARÍA LÓPEZ  ,Solicitud de equipo,2024-12-08,Resuelto,3
+,Help Desk,ERROR DE SISTEMA,,EN PROCESO,0
+Finanzas,ADMINISTRADOR TI,  Consulta general  ,2024-12-10,Pendiente,0
+,María López,Actualización de software,2024-12-11,Cerrado,4
+  INFRAESTRUCTURA  ,  Soporte Nivel 1  ,error de sistema,2024-12-12,Resuelto,5
+Recursos humanos,JUAN PÉREZ,CONSULTA GENERAL,2024-12-13,Pendiente,0
+SISTEMAS,MARÍA LÓPEZ,problema de acceso,2024-12-14,En proceso,0
+infraestructura,Juan Pérez,problema de acceso,2024/12/15,RESUELTO,1
+Soporte técnico,  soporte nivel 1  ,SOLICITUD DE EQUIPO,2024-12-16,Resuelto,4
+recursos humanos,,CONSULTA GENERAL,2024-12-17,  pendiente  ,0
+FINANZAS,HELP DESK,ACTUALIZACIÓN DE SOFTWARE,2024-12-18,RESUELTO,1
+  Infraestructura  ,JUAN PÉREZ,Problema de acceso,2024-12-19,Cerrado,1
+  Soporte técnico  ,  Juan Pérez  ,PROBLEMA DE ACCESO,2024/12/20,PENDIENTE,0
+Recurs0s human0s,maría lópez,Actualización de s0ftware,2024-12-21,Resuelto,1
+Infraestructura,s0p0rte nivel 1,Consulta general,,PENDIENTE,0
+  Soporte técnico  ,Administrador TI,  error de sistema  ,2024-12-23,resuelto,5
+Finanzas,JUAN PÉREZ,PROBLEMA DE ACCESO,2024/12/24,CERRADO,2
+  Recursos humanos  ,Administrador TI,Error de sistema,2024-12-25,Pendiente,0
+Recursos humanos,administrador ti,Solicitud de equipo,2024-12-26,RESUELTO,2
+Finanzas,Administrador TI,Problema de acceso,2024-12-27,  RESUELTO  ,4
+RECURSOS HUMANOS,Help Desk,Err0r de sistema,2024-12-28,Pendiente,0
+  Infraestructura  ,  MARÍA LÓPEZ  ,problema de acceso,2024-12-29,RESUELTO,4
+  Finanzas  ,JUAN PÉREZ,ACTUALIZACIÓN DE SOFTWARE,2024-12-30,Pendiente,0
+Recursos humanos,soporte nivel 1,CONSULTA GENERAL,2024-12-31,,0
+Infraestructura,María López,Consulta general,2025-01-01,  Cerrad0  ,0
+INFRAESTRUCTURA,  Administrador TI  ,  Problema de acceso  ,2025-01-02,  Resuelto  ,1
+  Sistemas  ,soporte nivel 1,Actualización de software,2025-01-03,Cerrado,2
+soporte técnico,S0p0rte Nivel 1,ERROR DE SISTEMA,2025-01-04,Cerrado,5
+finanzas,  Soporte Nivel 1  ,Error de sistema,2025-01-05,  CERRADO  ,4
+soporte técnico,MARÍA LÓPEZ,ERROR DE SISTEMA,2025/01/06,  Cerrado  ,4
+  Finanzas  ,JUAN PÉREZ,SOLICITUD DE EQUIPO,2025-01-07,En proceso,0
+INFRAESTRUCTURA,Help Desk,  error de sistema  ,2025/01/08,CERRADO,1
+Infraestructura,  María López  ,actualización de software,2025-01-09,Cerrado,1
+  finanzas  ,Soporte Nivel 1,CONSULTA GENERAL,2025-01-10,Pendiente,0
+  Sistemas  ,María López,,2025-01-11,En proceso,0
+  Recursos humanos  ,soporte nivel 1,solicitud de equipo,2025-01-12,En proceso,0
+Recursos humanos,Help Desk,problema de acceso,2025-01-13,RESUELTO,2
+soporte técnico,Juan Pérez,problema de acceso,2025/01/14,resuelto,3
+Finanzas,Soporte Nivel 1,  problema de acceso  ,25-01-15,En proceso,0
+  finanzas  ,S0p0rte Nivel 1,Error de sistema,2025-01-16,Resuelt0,0
+  infraestructura  ,  help desk  ,PROBLEMA DE ACCESO,2025-01-17,Cerrado,5
+,  Juan Pérez  ,CONSULTA GENERAL,2025-01-18,Pendiente,0
+Soporte técnico,Help Desk,CONSULTA GENERAL,2025-01-19,Resuelto,1
+Sistemas,Help Desk,SOLICITUD DE EQUIPO,2025/01/20,Pendiente,0
+Infraestructura,  María López  ,Solicitud de equipo,2025/01/21,  En pr0ces0  ,0
+,Administrador TI,Consulta general,2025-01-22,  Cerrado  ,4
+Finanzas,  Help Desk  ,  consulta general  ,2025-01-23,Resuelto,2
+Finanzas,JUAN PÉREZ,  actualización de s0ftware  ,2025/01/24,PENDIENTE,0
+  Sistemas  ,Administrador TI,  Consulta general  ,25-01-25,,0
+,Help Desk,ERROR DE SISTEMA,2025-01-26,  PENDIENTE  ,0
+  Recursos humanos  ,HELP DESK,ERROR DE SISTEMA,2025-01-27,En proceso,0
+Recursos humanos,  Administrador TI  ,CONSULTA GENERAL,2025-01-28,Resuelto,3
+recursos humanos,  Juan Pérez  ,,2025-01-29,CERRADO,4
+finanzas,ADMINISTRADOR TI,  Consulta general  ,2025-01-30,  Cerrado  ,5
+SOPORTE TÉCNICO,SOPORTE NIVEL 1,Consulta general,2025-01-31,pendiente,0
+soporte técnico,Help Desk,SOLICITUD DE EQUIPO,2025-02-01,En proceso,0
+,HELP DESK,Consulta general,25/02/02,Resuelto,3
+Finanzas,ADMINISTRADOR TI,  Problema de acceso  ,2025-02-03,Resuelto,1
